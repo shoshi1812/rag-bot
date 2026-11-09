@@ -1,0 +1,9 @@
+llama-index-core
+llama-index-readers-file
+llama-index-vector-stores-chroma
+llama-index-embeddings-google-genai
+llama-index-llms-google-genai
+chromadb
+streamlit
+python-dotenv
+truststore

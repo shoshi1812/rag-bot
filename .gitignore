@@ -1,0 +1,5 @@
+.env
+storage/
+certs/
+__pycache__/
+venv/
